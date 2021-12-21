@@ -1,0 +1,43 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    
+}
+
+.btn-primary{
+    background-color: #F53838;
+    transition: background-color 0.75s ease;
+    width: 150px;
+    border: 0;
+}
+
+.nav-link{
+    text-align: right;
+}
+
+.btn-primary:hover{
+    background-color: black;
+    transition: background-color 0.75s ease;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #4F5665;
+}
+a:hover{
+    color:red;
+}
+
+.fs-12px{
+    font-size: 12px;
+}
+
+.list{
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.mr-2{
+    margin-right: 10px;
+}
