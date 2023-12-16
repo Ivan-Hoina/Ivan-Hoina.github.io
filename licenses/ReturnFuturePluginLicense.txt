@@ -1,0 +1,21 @@
+﻿ReturnFuture Product License Version 1.0
+
+1.Definitions:
+1.2. Author means individual or entity that creates or contributes to the creation of Product.
+1.2. Product means the Source Code and Executable form of any of the following:
+A. Any file that results from an addition to, deletion from or modification of the contents of a file containing Original Software or previous Modifications;
+B. Any new file that contains any part of the Original Software or previous Modification; or
+C. Any new file that is contributed or otherwise made available under the terms of this License.
+1.3 License means this document.
+
+2. Licence
+2.1. Copyright: The Author of the Product retains full ownership and copyright of this Product. 
+No part of the Product may be distributed, copied, or modified without the prior written permission of the Author.
+2.2. Usage Rights: The Author grants you a non-exclusive right to install and use this Product at your own discretion.
+2.3. Editing and Modification: You may not make changes, modifications, or adaptations to the Product for your own use.
+2.4. Distribution: You are not allowed to sell, license, transfer, or distribute this Product to third parties without the prior written permission of the Author.
+2.5. Support and Updates: The Author may provide support and updates for the Plugin at their discretion, but they are under no obligation to provide such support or updates.
+2.6. Liability: The author is not liable for any direct, indirect, incidental, personal, special, or consequential damages, including loss of data or profit, arising from the use or inability to use the plugin. You are solely responsible for the use of the plugin and any associated consequences. The author provides no warranties regarding the security, reliability, or suitability of the plugin for specific purposes. Prior to using the plugin, it is recommended that you conduct your own assessment of its compatibility with your needs and ensure appropriate security measures.
+2.7. Changes to the License: The Author is not obligated to notify you of any changes to this License agreement. It is your responsibility to periodically review this agreement for any updates or modifications. By continuing to use the plugin after changes have been made to the license, you agree to the new terms that may be set by the author.
+
+Note: This license agreement is a legal document that governs the use of the product. Please carefully read and understand the terms before installing and using the plugin.
